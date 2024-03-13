@@ -1,4 +1,2 @@
-theme: jekyll-theme-minimal
-title: test's homepage
-description: <iframe id='iframe-widget' src='https://changenow.io/embeds/exchange-widget/v2/widget.html?FAQ=false&amount=0.01&amountFiat&backgroundColor=2B2B35&darkMode=true&from=btc&horizontal=false&isFiat=false&lang=en-US&link_id=98bfff15955c68&locales=false&logo=false&primaryColor=7c2bc7&to=pls&toTheMoon=false' style="height: 356px; width: 100%; border: none"></iframe>
+<iframe id='iframe-widget' src='https://changenow.io/embeds/exchange-widget/v2/widget.html?FAQ=false&amount=0.01&amountFiat&backgroundColor=2B2B35&darkMode=true&from=btc&horizontal=false&isFiat=false&lang=en-US&link_id=98bfff15955c68&locales=false&logo=false&primaryColor=7c2bc7&to=pls&toTheMoon=false' style="height: 356px; width: 100%; border: none"></iframe>
     <script defer type='text/javascript' src='https://changenow.io/embeds/exchange-widget/v2/stepper-connector.js'></script>
