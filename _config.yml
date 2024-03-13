@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
-title: test's homepage
+remote_theme: daattali/beautiful-jekyll@6.0.1
+title: test page
 description: bookmark this to keep an eye on my project updates!
